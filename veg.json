@@ -1,0 +1,22 @@
+{
+    "id":
+    {
+        "0":1,"1":2,"2":3,"3":4,"4":5
+    },
+    "name":
+    {
+        "0":"Cabbage","1":"Potato","2":"Onion","3":"Tomato","4":"Rayo"
+    },
+    "desc":
+    {
+        "0":"Fresh and Local Products.","1":"Fresh and Local Products.","2":"Fresh and Local Products.","3":"Fresh and Local Products.","4":"Fresh and Local Products."
+    },
+    "price":
+    {
+        "0":56,"1":70,"2":85,"3":60,"4":40
+    },
+    "img":
+    {
+        "0":"cabbage.jpg","1":"potato.jpg","2":"onion.jpg","3":"tomato.jpg","4":"rayo.jpg"
+    }
+}
